@@ -1,5 +1,6 @@
-# COMP2300 Assignment 1 Template 
+This is the **project I did myself** for course COMP2300 Semester 1, 2022.
 
-This is the template repository for COMP2300 assignment 1.
+The assignment instructions is [here](https://comp.anu.edu.au/courses/comp2300/assessments/light-show).  
+This assignment is **not currently used** for COMP2300 students.
 
-You should look at the assignment instructions online: https://comp.anu.edu.au/courses/comp2300/assessments/light-show
+More information about this project please see the [design doc](https://github.com/Ting-TT/LED-pad-Light-Show/blob/main/design-document.md).
